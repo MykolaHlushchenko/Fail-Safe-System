@@ -17,3 +17,8 @@ Embedded firmware for **ESP32** written in C++ that monitors critical system par
 1. Power on the ESP32.
 2. Connect to the device's Wi-Fi Access Point.
 3. Open `http://192.168.4.1` in your browser to access the control panel.
+
+![Schema](include/images/schema.jpg)
+
+![Web_UI](include/images/webui.png)
+
